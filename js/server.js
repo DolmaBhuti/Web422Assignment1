@@ -5,7 +5,7 @@
 * (including web sites) or distributed to other students.
 *
 * Name: Dolma Bhuti Student ID: 0154381398 Date: 17/09/2021
-* Heroku Link:  https://git.heroku.com/boiling-chamber-82558.git
+* Heroku Link:  https://boiling-chamber-82558.herokuapp.com/
 *
 ********************************************************************************/
 
