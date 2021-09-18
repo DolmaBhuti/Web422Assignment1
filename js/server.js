@@ -11,10 +11,10 @@
 
 const express = require('express')
 const app = express()
-const cors = required("cors")
+const cors = require("cors")
 
 //restaurant collection
-const RestaurantDB = require("./modules/restaurantDB.js");
+const RestaurantDB = require("../modules/restaurantDB.js");
 const db = new RestaurantDB();
 const HTTP_PORT = process.env.PORT || 8080;
 
